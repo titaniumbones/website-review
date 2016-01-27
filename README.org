@@ -1,0 +1,41 @@
+** Reviewing a Website
+Here we build on a bit on our exercise from the first class. In pairs, choose a website from the list below: 
+
+- [[http://lostmuseum.cuny.edu/index.php][The Lost Museum]]
+- [[http://web.stanford.edu/group/spatialhistory/cgi-bin/site/project.php?id=997][Shaping the West]]
+- [[http://www.historylearningsite.co.uk/][History Learning Site]]
+- [[http://web.stanford.edu/group/spatialhistory/cgi-bin/site/project.php?id=1005][Between the Tides]]
+- [[http://www.twoplantations.com/][Two Plantations]]
+- [[http://revolt.axismaps.com/acknowledgments.html][Slave Revolt in Jamaica, 1760-61]]
+- [[http://braceroarchive.org/][Bracero History Archive]]
+- [[http://www.texasslaveryproject.org/][Texas Slavery Project]]
+- [[http://www.british-history.ac.uk/][British History Online]]
+
+Form now till the end of class, *quickly* peruse the website, and then create a file titled ~websiteName.md~ in the "reviews" directory. Using the following template as a guide, write a brief review of the website. You may not have time to say everything you would like to say. That's OK; do your best in the limited time we have. 
+
+- At the end of class, submit your changes as a pull request, just like we did in the first class
+- You may want to consider turning your review into a blog post; this would be a good idea, since no one has started blogging yet! Be sure to acknowledge your partner's contributions if you do this.  
+
+#+BEGIN_SRC markdown
+  # Review of [Website Name](URL)
+  ## by Your First Names
+
+
+  ## What does the URL tell you?
+  Is this a personal site, a university-sponsored site, a corporate enterprise? 
+
+  ## What's the Subject Matter?
+  - In broad outlines, describe the scope of the website
+
+  ## Is it trustworthy?
+  - Are Sources Documented?
+  - If links are provided, links to where?
+  - Any evidence of plagiarism?
+
+  ## Does Web Publication _enhance_ the storytelling?
+  - What does the website do that would be _difficult_ to achieve in a linear narrative?
+  - Is anything _lost_ by non-linear organization?
+  - How might you suggest _improving_ the site?
+
+  ## Overall, would you recommend this site to someone interested in the subject matter? To a researcher? 
+#+END_SRC
